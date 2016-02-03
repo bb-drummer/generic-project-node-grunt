@@ -1,4 +1,4 @@
-### generic project template
+# generic project template
 ====================================================
 
 this is a generic project template utilizing 'nodeJS' and 'grunt' modules
@@ -27,4 +27,3 @@ this is a generic project template utilizing 'nodeJS' and 'grunt' modules
 
 - `grunt build:release`:
     assemble source files and bundle and compress, increases version
-
