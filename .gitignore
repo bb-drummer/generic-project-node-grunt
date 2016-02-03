@@ -1,3 +1,35 @@
+## 
+## ignore ZendStudio/Eclipse files
+##
+.settings
+.buildpath
+.project
+
+## 
+## ignore ZendServer files
+##
+deployment.properties
+deployment.xml
+
+## 
+## ignore ZendFramework(2) files and folders
+##
+*cache*
+vendor*
+themes/
+data/
+components/
+public/assets
+public/js/*/*
+public/css/*/*
+*.local.php
+
+## 
+## ignore (php) composer files
+##
+composer.lock
+composer.phar
+
 ##
 ## ignore nodeJS stuff
 ##
@@ -9,7 +41,7 @@ merge/
 ##
 ## ignore some apple stuff
 ## 
-.DS_Store
+.DS_*
 .AppleDouble
 .LSOverride
 
