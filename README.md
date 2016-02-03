@@ -27,3 +27,10 @@ this is a generic project template utilizing 'nodeJS' and 'grunt' modules
 
 - `grunt build:release`:
     assemble source files and bundle and compress, increases version
+
+
+
+## Hint:
+
+
+when cloning via git for your new project, remember to remove "this" `.git` file
