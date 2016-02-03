@@ -1,0 +1,9 @@
+{
+  "credentials": {
+    "host": "zendserver.mysql.local:3306",
+    "user": "root",
+    "password": ""
+  },
+  "db": "{db-name}",
+  "scripts": "{db-scripts-folderpath}"
+}
